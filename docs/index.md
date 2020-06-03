@@ -11,3 +11,4 @@ To get started, visit the [install page](install.md)
 1) Make sure that you have Skript and SkUtilities installed.
 2) Make sure you are using PaperSpigot, Spigot or TacoSpigot.
 3) Make sure bubble.sk is located at plugins/Skript/scripts/bubble.sk
+=======
